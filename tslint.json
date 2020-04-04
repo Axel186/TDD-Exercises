@@ -1,0 +1,37 @@
+{
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rules": {
+    "no-constant-condition": true,
+    "quotemark": [
+      true,
+      "single",
+      "avoid-escape",
+      "avoid-template"
+    ],
+    "object-literal-key-quotes": [
+      true,
+      "consistent"
+    ],
+    "arrow-parens": [
+      true,
+      "ban-single-arg-parens"
+    ],
+    "ordered-imports": false,
+    "trailing-comma": false,
+    "no-empty": false,
+    "no-console": false,
+    "no-angle-bracket-type-assertion": false,
+    "no-arg": false,
+    "no-consecutive-blank-lines": false,
+    "member-ordering": false,
+    "no-string-literal": false,
+    "object-literal-shorthand": false,
+    "object-literal-sort-keys": false,
+    "space-before-function-paren": false,
+    "max-line-length": false,
+    "only-arrow-functions": false,
+    "no-unused-expression": false
+  }
+}
