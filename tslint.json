@@ -32,6 +32,7 @@
     "space-before-function-paren": false,
     "max-line-length": false,
     "only-arrow-functions": false,
-    "no-unused-expression": false
+    "no-unused-expression": false,
+    "max-classes-per-file": false
   }
 }
